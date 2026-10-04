@@ -19,6 +19,7 @@ BinFlip is built specifically for eBay sellers and is actively developed based o
 ## Links
 
 - Website: https://binflip.com
+- Facebook: https://www.facebook.com/binflip
 - LinkedIn: https://www.linkedin.com/company/binflip
 - Instagram: https://www.instagram.com/binflipapp/
 - YouTube: https://www.youtube.com/@binflip
